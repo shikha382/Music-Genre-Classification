@@ -1,7 +1,7 @@
 # Deep Audio Ensembles for Music Genre Classification
 An end-to-end machine learning and deep learning repository implementing classical DSP features, Convolutional Recurrent Neural Networks (CRNNs), and state-of-the-art transformer ensembles for classifying audio tracks into ten distinct music genres.
 
-Deployed Application: [Music Genre Classification ](https://huggingface.co/spaces/shukhaRani/MUSIC-GENRE)
+Deployed Application: [Music Genre Classification](https://huggingface.co/spaces/shukhaRani/MUSIC-GENRE)
 
 ---
 
@@ -132,4 +132,4 @@ model = ASTForAudioClassification.from_pretrained(
 ## Deployment
 The model is fully deployed and accessible via Hugging Face Spaces. The web interface allows users to upload raw audio files (WAV, MP3, etc.) and receive real-time classification probabilities across the ten target genres. 
 
-Access the deployment here: [AST Genre Classification on Hugging Face](https://huggingface.co/spaces/mistdev/AST_genre_classification)
+Access the deployment here: [Music Genre Classification](https://huggingface.co/spaces/shukhaRani/MUSIC-GENRE)
